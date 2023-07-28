@@ -1,4 +1,4 @@
-# Medical AGI Agent: Unify Domain-specific Medical LLMs with the Lowest Cost
+# Medical AGI Agent: Medical LLMs with Super Agent
 
 
 ## Installation
