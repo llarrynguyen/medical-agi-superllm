@@ -49,17 +49,3 @@ We are open to accepting more domain-specific alignment layers! Please PR to add
 - Lavis
 - Vicuna
 
-## Citation
-
-If you're using MedAGI in your research or applications, please cite MedAGI using this BibTeX:
-
-```
-@misc{zhou2023path,
-      title={Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost}, 
-      author={Juexiao Zhou and Xiuying Chen and Xin Gao},
-      year={2023},
-      eprint={2306.10765},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
-}
-```
